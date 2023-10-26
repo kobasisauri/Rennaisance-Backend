@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
     user: "renaissancehandmade@gmail.com",
-    pass: "xmsecrhajeebtqro",
+    pass: "tuiqazmnjbzvnntg",
   },
 });
 const fileStorage = multer.diskStorage({
